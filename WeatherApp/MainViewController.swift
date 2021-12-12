@@ -23,6 +23,8 @@ class MainViewController: UIViewController {
         
         getWeatherInfo()
         
+        
+        
     }
     
     func getWeatherInfo(){
